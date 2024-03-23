@@ -41,7 +41,7 @@
 ....
 ```
 
-![Скриншот №1](https://disk.yandex.ru/client/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2FVirtualBox_Ubuntu_23_03_2024_13_11_36.png)
+[Скриншот №1](https://disk.yandex.ru/i/BzK3JNfhrPxSQA)
 
 
 
