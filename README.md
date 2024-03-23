@@ -41,7 +41,7 @@
 ....
 ```
 
-[Скриншот №1](https://disk.yandex.ru/i/BzK3JNfhrPxSQA)
+![Скриншот №1](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_23_03_2024_13_11_36.png)
 
 
 
