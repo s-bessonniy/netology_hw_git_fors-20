@@ -41,8 +41,8 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![Скриншот №1](https://disk.yandex.ru/client/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2FVirtualBox_Ubuntu_23_03_2024_13_11_36.png)
+
 
 
 ---
