@@ -47,6 +47,18 @@
    
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.  
 
+### Ответ на Задание 2
+
+Скрин с настройками pipeline
+
+![Скрин1](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_13_13_53.png)
+
+Логи выполнения pipeline
+
+![Скрин2](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_13_14_22.png)
+
+![Скрин3](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_13_14_48.png)
+
 ### Задание 3
 
 Что нужно сделать:
