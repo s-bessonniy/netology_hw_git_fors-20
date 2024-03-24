@@ -69,3 +69,23 @@
 4. Загрузите файл в репозиторий с помощью jenkins.
    
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
+### Ответ на Задание 3
+
+4 часа пытался понять, но не могу разобраться.
+
+Создал pipeline.
+![Скрин1](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_16_43_29.png)
+
+Вывод консоли jenkins
+
+![Скрин2](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_16_48_03.png)
+
+![Скрин3](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_16_48_18.png)
+
+![Скрин4](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_16_48_32.png)
+
+Ошибок нет, но и в nexus ничего нет.
+
+Помогите разобраться.
+
