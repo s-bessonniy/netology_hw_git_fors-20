@@ -24,6 +24,12 @@
    
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
+### Ответ на Задание 1
+
+![Скрины с настройками jenkins](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_12_56_07.png)
+
+![](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_12_58_35.png)
+
 ### Задание 2
 
 Что нужно сделать:
