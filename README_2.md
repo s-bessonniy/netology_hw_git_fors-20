@@ -28,11 +28,11 @@
 
 ![Скрины с настройками jenkins](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_12_56_07.png)
 
-![](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_12_58_35.png)
+![Скрин 2](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_12_58_35.png)
 
 ![Лог выполнения](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_13_01_38.png)
 
-![](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_13_01_48.png)
+![Скрин2](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_13_01_48.png)
 
 ### Задание 2
 
