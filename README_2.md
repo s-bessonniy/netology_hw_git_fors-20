@@ -32,7 +32,7 @@
 
 ![Скрин 2](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_12_58_35.png)
 
-Лог выпонления:
+Лог выполнения:
 
 ![Скрин 3](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_13_01_38.png)
 
@@ -72,20 +72,20 @@
 
 ### Ответ на Задание 3
 
-4 часа пытался понять, но не могу разобраться.
-
 Создал pipeline.
-![Скрин1](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_16_43_29.png)
+![Скрин1](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_25_03_2024_13_37_55.png)
 
 Вывод консоли jenkins
 
-![Скрин2](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_16_48_03.png)
+![Скрин2](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_25_03_2024_13_44_25.png)
 
-![Скрин3](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_16_48_18.png)
+![Скрин3](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_25_03_2024_13_44_38.png)
 
-![Скрин4](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_24_03_2024_16_48_32.png)
+![Скрин4](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_25_03_2024_13_44_48.png)
 
-Ошибок нет, но и в nexus ничего нет.
+Файд в репозитории Nexus
+
+![Скрин5](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_25_03_2024_13_47_18.png)
 
 Помогите разобраться.
 
