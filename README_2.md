@@ -87,5 +87,5 @@
 
 ![Скрин5](https://github.com/s-bessonniy/netology_hw_git_fors-20/blob/main/img/VirtualBox_Ubuntu_25_03_2024_13_47_18.png)
 
-Помогите разобраться.
+Большое спасибо за подсказку.
 
